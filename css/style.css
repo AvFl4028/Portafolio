@@ -1,0 +1,37 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+body{
+    background-color: #205592;
+}
+
+.nav-words{
+    color: #17F9FF;
+}
+
+a{
+    color: #17F9FF;
+    text-decoration: none;
+}
+h1{
+    stroke: 1px solid black;
+    stroke-width: 1px;
+    font-size: 40px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.img-list{
+    width: 100px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 20px;
+}
